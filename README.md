@@ -63,4 +63,5 @@ Hackathon 4/
 
 ## 📸 Screenshot
 ![image](https://github.com/user-attachments/assets/526475e4-0c8a-44a9-ac1e-1a150b4b2e54)
-![image](https://github.com/user-attachments/assets/30d65bdd-6b92-4201-8d6f-db89a040d8e6)
+![image](https://github.com/user-attachments/assets/09520cc2-b4ec-4e7d-ae6d-236acdd143cf)
+
