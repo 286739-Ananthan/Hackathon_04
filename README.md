@@ -43,7 +43,7 @@ Net Salary = Gross Salary - (Gross Salary * Tax%) + (Gross Salary * Bonus%)
 
 ## 📁 Project Structure
 
-'''
+```
 Hackathon 4/
 ├── employee_salary_project/
 │   ├── __init__.py
@@ -54,6 +54,6 @@ Hackathon 4/
 │   ├── views.py
 │   ├── urls.py
 │   └── templates/
-├── db.sqlite3      ← This is the database file
+├── db.sqlite3 
 ├── manage.py
-'''
+```
